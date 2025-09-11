@@ -31,3 +31,6 @@ there is also a command to visualize some statistics about the input.txt file.
 ```
 ffman.exe -v <input file> 
 ```
+
+> [!WARNING]
+> This project may contain memory management bugs, it should be used only for educational purposes.
